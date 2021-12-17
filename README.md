@@ -4,13 +4,13 @@
 - 🌱 Hoje eu estudo ASPNET core()
 
 
-  <a href="https://github.com/AlaorFurquim">
+ <a href="https://github.com/AlaorFurquim">
  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AlaorFurquim&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlaorFurquim&layout=compact&langs_count=7&theme=dark"/>
+ <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlaorFurquim&layout=compact&langs_count=7&theme=dark"/>
   
-<img align="center" alt="Alaor-Csharp" height="30" width="40"  src="https://img.icons8.com/nolan/64/sql.png"/>  
-  
-<img align="center" alt="Alaor-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">  
+ <div>
+ <img align="center" alt="Alaor-Csharp" height="30" width="40"  src="https://img.icons8.com/nolan/64/sql.png"/>   
+ <img align="center" alt="Alaor-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">  
   
   ##
   
