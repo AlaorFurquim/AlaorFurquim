@@ -9,8 +9,10 @@
  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlaorFurquim&layout=compact&langs_count=7&theme=dark"/>
   
  <div>
- <img align="center" alt="Alaor-Csharp" height="30" width="40"  src="https://img.icons8.com/nolan/64/sql.png"/>   
- <img align="center" alt="Alaor-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">  
+ <img align="center" alt="Alaor-Sql" height="30" width="40"  src="https://img.icons8.com/nolan/64/sql.png"/>   
+ <img align="center" alt="Alaor-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+ <img align="center" alt="Alaor-Html" height="30" width="40" src="https://img.icons8.com/color/344/html-5--v2.png">
+ <img align="center" alt="Alaor-Css" height="30" width="40" src="https://img.icons8.com/color/344/css3.png"> 
   
   ##
   
