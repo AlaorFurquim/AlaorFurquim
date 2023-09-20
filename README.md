@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Alaor Furquim
 
-- 🔭 Procuro uma vaga de desenvolvedor .net
-- 🌱 Hoje eu estudo ASPNET core()
+- 🔭 Desenvolvedor .net
+- 🌱 Hoje eu estudo ASPNET core() e Js
 
 
  <a href="https://github.com/AlaorFurquim">
