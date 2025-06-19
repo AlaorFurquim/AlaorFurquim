@@ -1,6 +1,25 @@
-### Olá! Eu sou o Alaor Furquim
+### # 👋 Olá, sou Alaor Furquim!
 
-- 🔭 Desenvolvedor .net
+Sou desenvolvedor Full Stack especializado em desenvolvimento de sistemas utilizando .NET (C#), SQL Server e React. Tenho experiência na criação de sistemas robustos, com arquitetura limpa (Clean Architecture), APIs REST, integrações, dashboards e geração de relatórios.
+
+## 🚀 Tecnologias e Ferramentas:
+- **Backend:** .NET, C#, SQL Server, APIs REST, Clean Architecture
+- **Frontend:** React, JavaScript, Bootstrap, Axios
+- **Banco de Dados:** SQL Server, Procedures, Functions
+- **Outros:** QuestPDF, iText7, Segurança, Rate Limiting, CORS, BCrypt
+
+## 🔥 Projeto em Destaque
+### CultivaMais
+Sistema completo de gestão para agronegócio com módulos de:
+- Controle de Estoque
+- Vendas
+- Financeiro
+- Emissão de Notas Fiscais
+- Relatórios em PDF
+- Dashboards com gráficos
+
+## 📫 Como me encontrar:
+- [LinkedIn](https://www.linkedin.com/in/alaor-furquim-9a4a35102/)
 
 
  <a href="https://github.com/AlaorFurquim">
